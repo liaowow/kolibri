@@ -18,7 +18,7 @@ Hi Moses,
 
 Thanks for letting us know. Our team have been informed and are checking to see there's any issue with Kolibri platform.
 
-In the mean time, could you tell us how long the screen was stuck on the "preparing the content" mode? Have you tried refreshing the page and importing again? Sometimes files as large as 65GB might take longer to transfer, and might get interrupted by other operations in the process.
+In the meantime, could you tell us how long the screen was stuck on the "preparing the content" mode? Have you tried refreshing the page and importing it again? Sometimes files as large as 65GB take longer to transfer, and might get interrupted by other concurrent operations during the transferring process.
 
 Again, we are working on fixing the issue as soon as we can. We will keep you updated.
 
